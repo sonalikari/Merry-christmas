@@ -186,7 +186,7 @@ span{
   
 .sec2 {
     position: relative;
-    min-height: 80vh;
+    min-height: 65vh;
     width: 100%;
     display: flex;
     overflow: hidden;
@@ -262,7 +262,7 @@ span{
   }
 .sec3 .image .gifts{
     padding: 0.5rem;
-    height: 20rem;
+    height: 21rem;
 }
 
 
